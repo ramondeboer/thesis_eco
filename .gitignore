@@ -5,3 +5,10 @@ __pycache__/
 *.log
 venv/
 .env
+.idea/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.log
+venv/
+.env
